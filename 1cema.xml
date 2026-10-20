@@ -4,6 +4,6 @@
         <name>Гороскоп</name>
         <vendor>1C</vendor>
         <version>1.0.0</version>
-        <publication location="https://raw.githubusercontent.com/AleksWebb/horoscope-1c/main/1Cv8.1CM"/>
+        <publication location="https://raw.githubusercontent.com/AleksWebb/horoscope-1c/refs/heads/main/1Cv8.1CM"/>
     </app>
 </package>
