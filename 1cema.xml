@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<package xmlns="http://v8.1c.ru/8.2/app/zip/app-list" version="1.0">
-    <app id="HoroscopeApp" version="1.0.0">
-        <name>Гороскоп</name>
-        <vendor>1C</vendor>
-        <version>1.0.0</version>
-        <publication location="https://raw.githubusercontent.com/AleksWebb/horoscope-1c/refs/heads/main/1Cv8.1CM"/>
-    </app>
-</package>
